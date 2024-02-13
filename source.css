@@ -1,8 +1,18 @@
+/* root */
+:root {
+    --les-aventuriers: #ED8583;
+    --les-aventuriers-dark: #ED858320;
+    --le-trousseau: #A7D44F;
+    --le-trousseau-dark: #A7D44F20;
+}
+
+/* red outline for servers */
 .container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
     outline: 1px solid #F10000;
 }
 
+/* red outline for dms */
 .container__037ed:has(h1 > div[aria-label="vdeme_"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(h1 > div[aria-label="nicolac47"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(h1 > div[aria-label="robin.cryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
@@ -11,4 +21,46 @@
 .container__037ed:has(h1 > div[aria-label="wilcryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(h1 > div[aria-label="lil_alg"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
     outline: 1px solid #F10000;
+}
+
+.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
+    color: var(--les-aventuriers);
+}
+.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
+    border-left-color: var(--les-aventuriers);
+    background-color: var(--les-aventuriers-dark);
+}
+.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
+    border-color: var(--les-aventuriers);
+}
+.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .unreadPill__715fc{
+    background-color: var(--les-aventuriers);
+}
+.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .endCap__95d53{
+    color: var(--bg-overlay-chat,var(--background-primary));
+}
+.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .unreadPillCapStroke__12c0b{
+    fill: var(--les-aventuriers);
+    color: var(--les-aventuriers);
+}
+
+.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
+    color: var(--le-trousseau);
+}
+.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
+    border-left-color: var(--le-trousseau);
+    background-color: var(--le-trousseau-dark);
+}
+.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
+    border-color: var(--le-trousseau);
+}
+.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .unreadPill__715fc{
+    background-color: var(--le-trousseau);
+}
+.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .endCap__95d53{
+    color: var(--bg-overlay-chat,var(--background-primary));
+}
+.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .unreadPillCapStroke__12c0b{
+    fill: var(--le-trousseau);
+    color: var(--le-trousseau);
 }
