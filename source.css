@@ -23,6 +23,7 @@
     outline: 1px solid #F10000;
 }
 
+/* les aventuriers*/
 .container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
     color: var(--les-aventuriers);
 }
@@ -43,7 +44,14 @@
     fill: var(--les-aventuriers);
     color: var(--les-aventuriers);
 }
+.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .mentioned__58017:before{
+    background-color: var(--les-aventuriers);
+}
+.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .mentioned__58017{
+    background-color: var(--les-aventuriers-dark);
+}
 
+/* le trousseau */
 .container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
     color: var(--le-trousseau);
 }
@@ -63,4 +71,10 @@
 .container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .unreadPillCapStroke__12c0b{
     fill: var(--le-trousseau);
     color: var(--le-trousseau);
+}
+.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .mentioned__58017:before{
+    background-color: var(--le-trousseau);
+}
+.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .mentioned__58017{
+    background-color: var(--le-trousseau-dark);
 }
