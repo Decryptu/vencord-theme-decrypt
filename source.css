@@ -1,6 +1,6 @@
 .container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
-    outline: 2px solid #F10000;
+    outline: 1px solid #F10000;
 }
 
 .container__037ed:has(h1 > div[aria-label="vdeme_"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
@@ -10,5 +10,5 @@
 .container__037ed:has(h1 > div[aria-label="Elodie#9506"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(h1 > div[aria-label="wilcryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(h1 > div[aria-label="lil_alg"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
-    outline: 2px solid #F10000;
+    outline: 1px solid #F10000;
 }
