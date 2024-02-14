@@ -25,6 +25,36 @@
     outline: 1px solid var(--attention);
 }
 
+/* red selector for dms */
+.container__037ed:has(h1 > div[aria-label="vdeme_"]) .channel_c21703:has(.selected_d94cf9){
+    border-left-color: var(--attention);
+    background-color: var(--attention-dark);
+}
+.container__037ed:has(h1 > div[aria-label="nicolac47"]) .channel_c21703:has(.selected_d94cf9){
+    border-left-color: var(--attention);
+    background-color: var(--attention-dark);
+}
+.container__037ed:has(h1 > div[aria-label="robin.cryptoast"]) .channel_c21703:has(.selected_d94cf9){
+    border-left-color: var(--attention);
+    background-color: var(--attention-dark);
+}
+.container__037ed:has(h1 > div[aria-label="thomascryptoast"]) .channel_c21703:has(.selected_d94cf9){
+    border-left-color: var(--attention);
+    background-color: var(--attention-dark);
+}
+.container__037ed:has(h1 > div[aria-label="Elodie#9506"]) .channel_c21703:has(.selected_d94cf9){
+    border-left-color: var(--attention);
+    background-color: var(--attention-dark);
+}
+.container__037ed:has(h1 > div[aria-label="wilcryptoast"]) .channel_c21703:has(.selected_d94cf9){
+    border-left-color: var(--attention);
+    background-color: var(--attention-dark);
+}
+.container__037ed:has(h1 > div[aria-label="lil_alg"]) .channel_c21703:has(.selected_d94cf9){
+    border-left-color: var(--attention);
+    background-color: var(--attention-dark);
+}
+
 /* les aventuriers*/
 .container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
     color: var(--les-aventuriers);
