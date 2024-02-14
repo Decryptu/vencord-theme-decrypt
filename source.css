@@ -4,12 +4,14 @@
     --les-aventuriers-dark: #ED858320;
     --le-trousseau: #A7D44F;
     --le-trousseau-dark: #A7D44F20;
+    --attention: #F10000;
+    --attention-dark: #F1000020;
 }
 
 /* red outline for servers */
 .container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
-    outline: 1px solid #F10000;
+    outline: 1px solid var(--attention);
 }
 
 /* red outline for dms */
@@ -20,7 +22,7 @@
 .container__037ed:has(h1 > div[aria-label="Elodie#9506"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(h1 > div[aria-label="wilcryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
 .container__037ed:has(h1 > div[aria-label="lil_alg"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
-    outline: 1px solid #F10000;
+    outline: 1px solid var(--attention);
 }
 
 /* les aventuriers*/
@@ -99,4 +101,82 @@
 .container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .reaction_fef95b.reactionMe__98f57{
     background-color: var(--le-trousseau);
     border-color: var(--le-trousseau);
+}
+
+/* cryptoast team */
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
+    color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
+    border-left-color: var(--attention);
+    background-color: var(--attention-dark);
+}
+/*.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
+    border-color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .unreadPill__715fc{
+    background-color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .endCap__95d53{
+    color: var(--bg-overlay-chat,var(--background-primary));
+}
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .unreadPillCapStroke__12c0b{
+    fill: var(--attention);
+    color: var(--attention);
+}*/
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .mentioned__58017:before{
+    background-color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .mentioned__58017{
+    background-color: var(--attention-dark);
+}
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .wrapper_f46140{
+    background-color: var(--attention-dark);
+    color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .newMessagesBar__8b6d7{
+    background-color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .reaction_fef95b.reactionMe__98f57{
+    background-color: var(--attention);
+    border-color: var(--attention);
+}
+
+/* cryptoast public */
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
+    color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
+    border-left-color: var(--attention);
+    background-color: var(--attention-dark);
+}
+/*.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
+    border-color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .unreadPill__715fc{
+    background-color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .endCap__95d53{
+    color: var(--bg-overlay-chat,var(--background-primary));
+}
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .unreadPillCapStroke__12c0b{
+    fill: var(--attention);
+    color: var(--attention);
+}*/
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .mentioned__58017:before{
+    background-color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .mentioned__58017{
+    background-color: var(--attention-dark);
+}
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .wrapper_f46140{
+    background-color: var(--attention-dark);
+    color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .newMessagesBar__8b6d7{
+    background-color: var(--attention);
+}
+.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .reaction_fef95b.reactionMe__98f57{
+    background-color: var(--attention);
+    border-color: var(--attention);
 }
