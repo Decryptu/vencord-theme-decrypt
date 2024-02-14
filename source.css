@@ -90,7 +90,7 @@
     background-color: var(--les-aventuriers);
 }
 .container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .reaction_fef95b.reactionMe__98f57{
-    background-color: var(--les-aventuriers);
+    background-color: var(--les-aventuriers-dark);
     border-color: var(--les-aventuriers);
 }
 
@@ -129,7 +129,7 @@
     background-color: var(--le-trousseau);
 }
 .container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .reaction_fef95b.reactionMe__98f57{
-    background-color: var(--le-trousseau);
+    background-color: var(--le-trousseau-dark);
     border-color: var(--le-trousseau);
 }
 
@@ -168,7 +168,7 @@
     background-color: var(--attention);
 }
 .container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .reaction_fef95b.reactionMe__98f57{
-    background-color: var(--attention);
+    background-color: var(--attention-dark);
     border-color: var(--attention);
 }
 
@@ -207,6 +207,6 @@
     background-color: var(--attention);
 }
 .container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .reaction_fef95b.reactionMe__98f57{
-    background-color: var(--attention);
+    background-color: var(--attention-dark);
     border-color: var(--attention);
 }
