@@ -9,221 +9,221 @@
 }
 
 /* red outline for servers */
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
     outline: 1px solid var(--attention);
 }
 
 /* red outline for dms */
-.container__037ed:has(h1 > div[aria-label="vdeme_"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
-.container__037ed:has(h1 > div[aria-label="nicolac47"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
-.container__037ed:has(h1 > div[aria-label="robin.cryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
-.container__037ed:has(h1 > div[aria-label="thomascryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
-.container__037ed:has(h1 > div[aria-label="Elodie#9506"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
-.container__037ed:has(h1 > div[aria-label="wilcryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
-.container__037ed:has(h1 > div[aria-label="lil_alg"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
+.container__7e23c:has(h1 > div[aria-label="vdeme_"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
+.container__7e23c:has(h1 > div[aria-label="nicolac47"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
+.container__7e23c:has(h1 > div[aria-label="robin.cryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
+.container__7e23c:has(h1 > div[aria-label="thomascryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
+.container__7e23c:has(h1 > div[aria-label="Elodie#9506"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
+.container__7e23c:has(h1 > div[aria-label="wilcryptoast"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a,
+.container__7e23c:has(h1 > div[aria-label="lil_alg"]) .scrollableContainer__33e06.themedBackground__6b1b6.webkit__8d35a {
     outline: 1px solid var(--attention);
 }
 
 /* red cross for dms */
-.container__037ed:has(h1 > div[aria-label="vdeme_"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
-.container__037ed:has(h1 > div[aria-label="nicolac47"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
-.container__037ed:has(h1 > div[aria-label="robin.cryptoast"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
-.container__037ed:has(h1 > div[aria-label="thomascryptoast"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
-.container__037ed:has(h1 > div[aria-label="Elodie#9506"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
-.container__037ed:has(h1 > div[aria-label="wilcryptoast"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
-.container__037ed:has(h1 > div[aria-label="lil_alg"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd {
+.container__7e23c:has(h1 > div[aria-label="vdeme_"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
+.container__7e23c:has(h1 > div[aria-label="nicolac47"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
+.container__7e23c:has(h1 > div[aria-label="robin.cryptoast"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
+.container__7e23c:has(h1 > div[aria-label="thomascryptoast"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
+.container__7e23c:has(h1 > div[aria-label="Elodie#9506"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
+.container__7e23c:has(h1 > div[aria-label="wilcryptoast"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd,
+.container__7e23c:has(h1 > div[aria-label="lil_alg"]) .channel_c21703:has(.selected_d94cf9) .linkButtonIcon__2f35b, .channel_c21703:has(.selected_d94cf9) .closeButton__8f1fd {
     color: var(--attention);
 }
 
 /* red scroll for dms */
-/*.container__037ed:has(h1 > div[aria-label="vdeme_"]) ::-webkit-scrollbar-thumb,
-.container__037ed:has(h1 > div[aria-label="nicolac47"]) ::-webkit-scrollbar-thumb,
-.container__037ed:has(h1 > div[aria-label="robin.cryptoast"]) ::-webkit-scrollbar-thumb,
-.container__037ed:has(h1 > div[aria-label="thomascryptoast"]) ::-webkit-scrollbar-thumb,
-.container__037ed:has(h1 > div[aria-label="Elodie#9506"]) ::-webkit-scrollbar-thumb,
-.container__037ed:has(h1 > div[aria-label="wilcryptoast"]) ::-webkit-scrollbar-thumb,
-.container__037ed:has(h1 > div[aria-label="lil_alg"]) ::-webkit-scrollbar-thumb {
+/*.container__7e23c:has(h1 > div[aria-label="vdeme_"]) ::-webkit-scrollbar-thumb,
+.container__7e23c:has(h1 > div[aria-label="nicolac47"]) ::-webkit-scrollbar-thumb,
+.container__7e23c:has(h1 > div[aria-label="robin.cryptoast"]) ::-webkit-scrollbar-thumb,
+.container__7e23c:has(h1 > div[aria-label="thomascryptoast"]) ::-webkit-scrollbar-thumb,
+.container__7e23c:has(h1 > div[aria-label="Elodie#9506"]) ::-webkit-scrollbar-thumb,
+.container__7e23c:has(h1 > div[aria-label="wilcryptoast"]) ::-webkit-scrollbar-thumb,
+.container__7e23c:has(h1 > div[aria-label="lil_alg"]) ::-webkit-scrollbar-thumb {
     background-color: var(--attention)!important;
 }*/
 
 /* red selector for dms */
-.container__037ed:has(h1 > div[aria-label="vdeme_"]) .channel_c21703:has(.selected_d94cf9),
-.container__037ed:has(h1 > div[aria-label="nicolac47"]) .channel_c21703:has(.selected_d94cf9),
-.container__037ed:has(h1 > div[aria-label="robin.cryptoast"]) .channel_c21703:has(.selected_d94cf9),
-.container__037ed:has(h1 > div[aria-label="thomascryptoast"]) .channel_c21703:has(.selected_d94cf9),
-.container__037ed:has(h1 > div[aria-label="Elodie#9506"]) .channel_c21703:has(.selected_d94cf9),
-.container__037ed:has(h1 > div[aria-label="wilcryptoast"]) .channel_c21703:has(.selected_d94cf9),
-.container__037ed:has(h1 > div[aria-label="lil_alg"]) .channel_c21703:has(.selected_d94cf9) {
+.container__7e23c:has(h1 > div[aria-label="vdeme_"]) .channel_c21703:has(.selected_d94cf9),
+.container__7e23c:has(h1 > div[aria-label="nicolac47"]) .channel_c21703:has(.selected_d94cf9),
+.container__7e23c:has(h1 > div[aria-label="robin.cryptoast"]) .channel_c21703:has(.selected_d94cf9),
+.container__7e23c:has(h1 > div[aria-label="thomascryptoast"]) .channel_c21703:has(.selected_d94cf9),
+.container__7e23c:has(h1 > div[aria-label="Elodie#9506"]) .channel_c21703:has(.selected_d94cf9),
+.container__7e23c:has(h1 > div[aria-label="wilcryptoast"]) .channel_c21703:has(.selected_d94cf9),
+.container__7e23c:has(h1 > div[aria-label="lil_alg"]) .channel_c21703:has(.selected_d94cf9) {
     border-left-color: var(--attention);
     background-color: var(--attention-dark);
 }
 
 
 /* les aventuriers*/
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
     color: var(--les-aventuriers);
 }
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
     border-left-color: var(--les-aventuriers);
     background-color: var(--les-aventuriers-dark);
 }
-/*.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
+/*.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
     border-color: var(--les-aventuriers);
 }
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .unreadPill__715fc{
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .unreadPill__715fc{
     background-color: var(--les-aventuriers);
 }
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .endCap__95d53{
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .endCap__95d53{
     color: var(--bg-overlay-chat,var(--background-primary));
 }
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .unreadPillCapStroke__12c0b{
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .unreadPillCapStroke__12c0b{
     fill: var(--les-aventuriers);
     color: var(--les-aventuriers);
 }*/
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .mentioned__58017:before{
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .mentioned__58017:before{
     background-color: var(--les-aventuriers);
 }
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .mentioned__58017{
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .mentioned__58017{
     background-color: var(--les-aventuriers-dark);
 }
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .wrapper_f46140{
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .wrapper_f46140{
     background-color: var(--les-aventuriers-dark);
     color: var(--les-aventuriers);
 }
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .newMessagesBar__8b6d7{
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .newMessagesBar__8b6d7{
     background-color: var(--les-aventuriers);
 }
-.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .reaction_fef95b.reactionMe__98f57{
+.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) .reaction_fef95b.reactionMe__98f57{
     background-color: var(--les-aventuriers-dark);
     border-color: var(--les-aventuriers);
 }
-/*.container__037ed:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) ::-webkit-scrollbar-thumb {
+/*.container__7e23c:has(nav[aria-label="Les aventuriers de la tulipe 🌷 (serveur)"]) ::-webkit-scrollbar-thumb {
     background-color: var(--les-aventuriers)!important;
 }*/
 
 /* le trousseau */
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
     color: var(--le-trousseau);
 }
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
     border-left-color: var(--le-trousseau);
     background-color: var(--le-trousseau-dark);
 }
-/*.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
+/*.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
     border-color: var(--le-trousseau);
 }
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .unreadPill__715fc{
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .unreadPill__715fc{
     background-color: var(--le-trousseau);
 }
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .endCap__95d53{
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .endCap__95d53{
     color: var(--bg-overlay-chat,var(--background-primary));
 }
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .unreadPillCapStroke__12c0b{
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .unreadPillCapStroke__12c0b{
     fill: var(--le-trousseau);
     color: var(--le-trousseau);
 }*/
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .mentioned__58017:before{
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .mentioned__58017:before{
     background-color: var(--le-trousseau);
 }
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .mentioned__58017{
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .mentioned__58017{
     background-color: var(--le-trousseau-dark);
 }
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .wrapper_f46140{
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .wrapper_f46140{
     background-color: var(--le-trousseau-dark);
     color: var(--le-trousseau);
 }
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .newMessagesBar__8b6d7{
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .newMessagesBar__8b6d7{
     background-color: var(--le-trousseau);
 }
-.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .reaction_fef95b.reactionMe__98f57{
+.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) .reaction_fef95b.reactionMe__98f57{
     background-color: var(--le-trousseau-dark);
     border-color: var(--le-trousseau);
 }
-/*.container__037ed:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) ::-webkit-scrollbar-thumb {
+/*.container__7e23c:has(nav[aria-label="Le trousseau 🐒🐒🐒 (serveur)"]) ::-webkit-scrollbar-thumb {
     background-color: var(--le-trousseau)!important;
 }*/
 
 /* cryptoast team */
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
     color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
     border-left-color: var(--attention);
     background-color: var(--attention-dark);
 }
-/*.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
+/*.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
     border-color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .unreadPill__715fc{
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .unreadPill__715fc{
     background-color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .endCap__95d53{
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .endCap__95d53{
     color: var(--bg-overlay-chat,var(--background-primary));
 }
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .unreadPillCapStroke__12c0b{
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .unreadPillCapStroke__12c0b{
     fill: var(--attention);
     color: var(--attention);
 }*/
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .mentioned__58017:before{
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .mentioned__58017:before{
     background-color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .mentioned__58017{
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .mentioned__58017{
     background-color: var(--attention-dark);
 }
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .wrapper_f46140{
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .wrapper_f46140{
     background-color: var(--attention-dark);
     color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .newMessagesBar__8b6d7{
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .newMessagesBar__8b6d7{
     background-color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) .reaction_fef95b.reactionMe__98f57{
+.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) .reaction_fef95b.reactionMe__98f57{
     background-color: var(--attention-dark);
     border-color: var(--attention);
 }
-/*.container__037ed:has(nav[aria-label="Cryptoast Team (serveur)"]) ::-webkit-scrollbar-thumb {
+/*.container__7e23c:has(nav[aria-label="Cryptoast Team (serveur)"]) ::-webkit-scrollbar-thumb {
     background-color: var(--attention)!important;
 }*/
 
 /* cryptoast public */
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6) .link__95dc0 svg{
     color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .containerDefault__3187b:has(.modeSelected__487d6){
     border-left-color: var(--attention);
     background-color: var(--attention-dark);
 }
-/*.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
+/*.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .custom-theme-background .isUnread__6f880, .isUnread__6f880{
     border-color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .unreadPill__715fc{
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .unreadPill__715fc{
     background-color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .endCap__95d53{
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .endCap__95d53{
     color: var(--bg-overlay-chat,var(--background-primary));
 }
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .unreadPillCapStroke__12c0b{
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .unreadPillCapStroke__12c0b{
     fill: var(--attention);
     color: var(--attention);
 }*/
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .mentioned__58017:before{
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .mentioned__58017:before{
     background-color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .mentioned__58017{
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .mentioned__58017{
     background-color: var(--attention-dark);
 }
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .wrapper_f46140{
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .wrapper_f46140{
     background-color: var(--attention-dark);
     color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .newMessagesBar__8b6d7{
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .newMessagesBar__8b6d7{
     background-color: var(--attention);
 }
-.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) .reaction_fef95b.reactionMe__98f57{
+.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) .reaction_fef95b.reactionMe__98f57{
     background-color: var(--attention-dark);
     border-color: var(--attention);
 }
-/*.container__037ed:has(nav[aria-label="Cryptoast (serveur)"]) ::-webkit-scrollbar-thumb {
+/*.container__7e23c:has(nav[aria-label="Cryptoast (serveur)"]) ::-webkit-scrollbar-thumb {
     background-color: var(--attention)!important;
 }*/
